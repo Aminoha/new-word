@@ -1,0 +1,17 @@
+.MyButton {
+  width: 60px;
+  padding: 7px;
+  margin: 10px 0;
+  font-size: 18px;
+  background: black;
+  color: white;
+  border-radius: 9px;
+  border: none;
+  cursor: pointer;
+  transition: 0.10s linear;
+
+}
+
+.MyButton:hover {
+  background: #607d8b;
+}
