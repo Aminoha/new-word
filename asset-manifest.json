@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/new-word/static/css/main.920958a3.css",
+    "main.js": "/new-word/static/js/main.d24a77ca.js",
+    "static/media/404-error.png": "/new-word/static/media/404-error.3a2d3d8ae831c8820db4.png",
+    "static/media/logo3.png": "/new-word/static/media/logo3.3bcf95b71f78e499fdf1.png",
+    "static/media/delete copy.png": "/new-word/static/media/delete copy.00313fd6b61aff45ff4c.png",
+    "index.html": "/new-word/index.html",
+    "main.920958a3.css.map": "/new-word/static/css/main.920958a3.css.map",
+    "main.d24a77ca.js.map": "/new-word/static/js/main.d24a77ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.920958a3.css",
+    "static/js/main.d24a77ca.js"
+  ]
+}
